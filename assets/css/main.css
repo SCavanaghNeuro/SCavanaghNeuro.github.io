@@ -1777,6 +1777,19 @@ input, select, textarea {
 				height: 75px;
 		}
 
+
+		.image.avatarSC_Size2 {
+			width: 683;
+			height: 455px;
+			background: #f00;
+		}
+
+		.image.avatarSC_Size2 img {
+				width: 683px;
+				height: 455px;
+		}
+
+
 		.image.fit {
 			display: block;
 			width: 100%;
